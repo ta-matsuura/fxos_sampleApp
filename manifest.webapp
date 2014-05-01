@@ -1,0 +1,71 @@
+{
+  "name": "Mfilter",
+  "type": "certified",
+  "description": "Web app datastore api testing",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "systemXHR": {},
+    "storage": {},
+    "webapps-manage": {}
+  },
+  "locales": {
+    "ar": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "de": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "el": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "en-US": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "es": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "fr": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "it": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "pt-BR": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "ru": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "tr": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    },
+    "zh-TW": {
+      "name": "Mfilter",
+      "description": "Web app template"
+    }
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/sample.png"
+  },
+  "datastores-access": {
+    "message_filter": {
+      "readonly": false,
+      "description": "Read/Write bookmarks"
+    }
+  }
+}

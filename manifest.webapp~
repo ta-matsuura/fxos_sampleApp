@@ -1,0 +1,25 @@
+{
+  "name": "DS Test",
+  "type": "certified",
+  "description": "Web app datastore api testing",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "systemXHR": {},
+    "storage": {},
+    "webapps-manage": {}
+  },
+  "locales": {
+    "en-US": {
+      "name": "SaveDB",
+      "description": "Web app template"
+    },
+  },
+  "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/sample.PNG"
+  }
+}

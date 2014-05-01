@@ -1,0 +1,32 @@
+.feature_area ul { 
+  margin: 0; 
+  padding :0; 
+  list-style-type : none; 
+}
+.feature_area li { 
+  display : inline; 
+  padding :0; 
+  margin:0; 
+}
+.feature_area p {display:block; 
+  border:1px solid #aac;
+  background-color:#aee;
+  font-size:x-small;
+  padding:0.1em 0 0.1em 0.7em;
+  text-decoration:none;
+  color:#557;
+  width:12em; 
+  margin:3px 3px;
+  height:1.5em;
+}
+.feature_area p:hover {
+  display:block; 
+  border:1px solid #aca;
+  background-color:#ded;
+  font-size:x-small;
+  padding:0.1em 0 0.1em 0.7em;
+  text-decoration:none;
+  color:#575;
+  height:1.5em;
+}
+
